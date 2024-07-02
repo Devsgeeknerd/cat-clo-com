@@ -68,6 +68,8 @@ Essas competências são fundamentais para construir soluções escaláveis e ef
 >
 > * Participação em Comunidade:
 >   * Envolva-se em fóruns e grupos online para trocar experiências e resolver dúvidas.
+>
+> * Atualização Constante:
 
 <!-- Informações -->
 ## &#8505; Informações
