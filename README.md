@@ -28,6 +28,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 * **Desenvolvimento de Aplicação na Nuvem:** Criação e implementação de aplicações na nuvem.
   * Ferramentas de desenvolvimento e integração contínua;
   * Contêineres e orquestração;
+  * Serverless Computing;
 
 Essas competências são fundamentais para construir soluções escaláveis e eficientes que aproveitam ao máximo os recursos da computação em nuvem.
 
