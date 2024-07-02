@@ -37,6 +37,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Práticas de segurança (criptografia, firewall, detecção de intrusão);
   * Conformidade e regulamentação.
 
+* **DevOps e Automação na Nuvem:** Integração de práticas DevOps com computação em nuvem.
+
 Essas competências são fundamentais para construir soluções escaláveis e eficientes que aproveitam ao máximo os recursos da computação em nuvem.
 
 <!-- Informações -->
