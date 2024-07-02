@@ -23,6 +23,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Tipos de armazenamentos (blocos, arquivos, objetos);
   * Soluções de armazenamento;
   * Bancos de dados gerenciados;
+  * NoSQL e Big Data.
 
 Essas competências são fundamentais para construir soluções escaláveis e eficientes que aproveitam ao máximo os recursos da computação em nuvem.
 
