@@ -14,6 +14,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Vantagens e desafios da computação em nuvem.
 
 * **Serviços de Nuvem:** Principais provedores de serviços de nuvem e suas ofertas.
+  * Visão geral dos serviços da AWS;
 
 Essas competências são fundamentais para construir soluções escaláveis e eficientes que aproveitam ao máximo os recursos da computação em nuvem.
 
