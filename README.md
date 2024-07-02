@@ -13,6 +13,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Modelos de implantação (nuvem pública, privada, híbrida);
   * Vantagens e desafios da computação em nuvem.
 
+* **Serviços de Nuvem:** Principais provedores de serviços de nuvem e suas ofertas.
+
 Essas competências são fundamentais para construir soluções escaláveis e eficientes que aproveitam ao máximo os recursos da computação em nuvem.
 
 <!-- Informações -->
