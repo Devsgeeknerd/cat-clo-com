@@ -61,6 +61,7 @@ Essas competências são fundamentais para construir soluções escaláveis e ef
 > **Dicas de Estudos:**
 >
 > * Prática contínua:
+>   * Utilize serviços de nuvem para criar e gerenciar seus próprios projetos.
 
 <!-- Informações -->
 ## &#8505; Informações
