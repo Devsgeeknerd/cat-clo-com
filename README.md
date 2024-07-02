@@ -52,6 +52,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 * **Inteligência Artificial e Machine Learning na Nuvem:** Serviços de IA e ML oferecidos pelos provedores de nuvem.
   * Plataformas de machine learning;
   * Serviços de IA (reconhecimento de imagem, processamento de linguagem natural);
+  * Treinamento e implantação de modelos de ML;
 
 Essas competências são fundamentais para construir soluções escaláveis e eficientes que aproveitam ao máximo os recursos da computação em nuvem.
 
