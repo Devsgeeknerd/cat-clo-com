@@ -31,6 +31,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Serverless Computing;
   * Microservices e arquitetura de aplicações em nuvem.
 
+* **Redes e Segurança na Nuvem:** Configuração de redes e práticas de segurança na nuvem.
+
 Essas competências são fundamentais para construir soluções escaláveis e eficientes que aproveitam ao máximo os recursos da computação em nuvem.
 
 <!-- Informações -->
