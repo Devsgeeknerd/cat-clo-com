@@ -64,6 +64,7 @@ Essas competências são fundamentais para construir soluções escaláveis e ef
 >   * Utilize serviços de nuvem para criar e gerenciar seus próprios projetos.
 >
 > * Certificações:
+>   * Busque certificações dos principais provedores para validar seus conhecimentos.
 
 <!-- Informações -->
 ## &#8505; Informações
