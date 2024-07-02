@@ -20,6 +20,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Comparação entre AWS, Azure e GCP.
 
 * **Armazenamento e Bancos de Dados em Nuvem:** Soluções de armazenamento e bancos oferecidos por provedores de nuvem.
+  * Tipos de armazenamentos (blocos, arquivos, objetos);
 
 Essas competências são fundamentais para construir soluções escaláveis e eficientes que aproveitam ao máximo os recursos da computação em nuvem.
 
