@@ -46,6 +46,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 * **Big Data e Análise na Nuvem:** Soluções de Big Data e ferramentas de análise na nuvem.
   * Processamento de Big Data;
   * Serviços de análise de dados;
+  * Armazenamento e análise de dados em larga escala;
 
 Essas competências são fundamentais para construir soluções escaláveis e eficientes que aproveitam ao máximo os recursos da computação em nuvem.
 
