@@ -9,7 +9,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 
 * **Introdução à Computação em Nuvem:** Conceitos básicos e benefícios da computação em nuvem.
   * Definição e princípios da computação em nuvem;
-  * Modelos de serviços (iaas, paas, aas);
+  * Modelos de serviços (iaas, paas, saas);
   * Modelos de implantação (nuvem pública, privada, híbrida);
   * Vantagens e desafios da computação em nuvem.
 
