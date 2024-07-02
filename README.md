@@ -16,6 +16,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 * **Serviços de Nuvem:** Principais provedores de serviços de nuvem e suas ofertas.
   * Visão geral dos serviços da AWS;
   * Visão geral dos serviços do Microsoft Azure;
+  * Visão geral dos serviços do Google Cloud Platform;
 
 Essas competências são fundamentais para construir soluções escaláveis e eficientes que aproveitam ao máximo os recursos da computação em nuvem.
 
