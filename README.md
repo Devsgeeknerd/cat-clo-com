@@ -7,6 +7,8 @@ A categoria Cloud Computing é essencial para desenvolver, implantar e gerenciar
 
 Ao completar esta categoria, terá habilidades robustas em:
 
+* **Introdução à Computação em Nuvem:** Conceitos básicos e benefícios da computação em nuvem.
+
 Essas competências são fundamentais para construir soluções escaláveis e eficientes que aproveitam ao máximo os recursos da computação em nuvem.
 
 <!-- Informações -->
