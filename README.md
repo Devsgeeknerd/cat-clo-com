@@ -59,6 +59,8 @@ Essas competências são fundamentais para construir soluções escaláveis e ef
 
 > [!IMPORTANT]\
 > **Dicas de Estudos:**
+>
+> * Prática contínua:
 
 <!-- Informações -->
 ## &#8505; Informações
