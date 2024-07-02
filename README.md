@@ -57,6 +57,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 
 Essas competências são fundamentais para construir soluções escaláveis e eficientes que aproveitam ao máximo os recursos da computação em nuvem.
 
+> [!IMPORTANT]\
 <!-- Informações -->
 ## &#8505; Informações
 
