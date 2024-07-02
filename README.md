@@ -3,6 +3,8 @@
 
 ***Conteúdo da Categoria:***
 
+A categoria Cloud Computing é essencial para desenvolver, implantar e gerenciar aplicações e serviços na nuvem. Ao completar esta categoria, você terá habilidades robustas em conceitos fundamentais de nuvem, desenvolvimento de aplicativos, armazenamento de dados, redes e segurança, DevOps, Big Data, e IA/ML. Essas competências são fundamentais para construir soluções escaláveis e eficientes que aproveitam ao máximo os recursos da computação em nuvem.
+
 <!-- Informações -->
 ## &#8505; Informações
 
