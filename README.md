@@ -35,6 +35,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Conceitos de rede em nuvem (vpc, subnets, vpn);
   * Controle de acesso e identidade (iam);
   * Práticas de segurança (criptografia, firewall, detecção de intrusão);
+  * Conformidade e regulamentação.
 
 Essas competências são fundamentais para construir soluções escaláveis e eficientes que aproveitam ao máximo os recursos da computação em nuvem.
 
