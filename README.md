@@ -65,6 +65,8 @@ Essas competências são fundamentais para construir soluções escaláveis e ef
 >
 > * Certificações:
 >   * Busque certificações dos principais provedores para validar seus conhecimentos.
+>
+> * Participação em Comunidade:
 
 <!-- Informações -->
 ## &#8505; Informações
