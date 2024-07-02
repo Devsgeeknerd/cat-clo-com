@@ -11,6 +11,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Definição e princípios da computação em nuvem;
   * Modelos de serviços (iaas, paas, aas);
   * Modelos de implantação (nuvem pública, privada, híbrida);
+  * Vantagens e desafios da computação em nuvem.
 
 Essas competências são fundamentais para construir soluções escaláveis e eficientes que aproveitam ao máximo os recursos da computação em nuvem.
 
