@@ -22,6 +22,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 * **Armazenamento e Bancos de Dados em Nuvem:** Soluções de armazenamento e bancos oferecidos por provedores de nuvem.
   * Tipos de armazenamentos (blocos, arquivos, objetos);
   * Soluções de armazenamento;
+  * Bancos de dados gerenciados;
 
 Essas competências são fundamentais para construir soluções escaláveis e eficientes que aproveitam ao máximo os recursos da computação em nuvem.
 
