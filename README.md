@@ -1,6 +1,8 @@
 <!-- Título -->
 # Cloud Computing
 
+***Conteúdo da Categoria:***
+
 <!-- Informações -->
 ## &#8505; Informações
 
