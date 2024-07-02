@@ -29,6 +29,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Ferramentas de desenvolvimento e integração contínua;
   * Contêineres e orquestração;
   * Serverless Computing;
+  * Microservices e arquitetura de aplicações em nuvem.
 
 Essas competências são fundamentais para construir soluções escaláveis e eficientes que aproveitam ao máximo os recursos da computação em nuvem.
 
