@@ -43,6 +43,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Pipelines de CI/CD na nuvem;
   * Monitoramento e logging.
 
+* **Big Data e Análise na Nuvem:** Soluções de Big Data e ferramentas de análise na nuvem.
+
 Essas competências são fundamentais para construir soluções escaláveis e eficientes que aproveitam ao máximo os recursos da computação em nuvem.
 
 <!-- Informações -->
