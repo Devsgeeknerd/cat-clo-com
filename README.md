@@ -32,6 +32,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Microservices e arquitetura de aplicações em nuvem.
 
 * **Redes e Segurança na Nuvem:** Configuração de redes e práticas de segurança na nuvem.
+  * Conceitos de rede em nuvem (vpc, subnets, vpn);
 
 Essas competências são fundamentais para construir soluções escaláveis e eficientes que aproveitam ao máximo os recursos da computação em nuvem.
 
