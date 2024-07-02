@@ -39,6 +39,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 
 * **DevOps e Automação na Nuvem:** Integração de práticas DevOps com computação em nuvem.
   * Fundamentos de DevOps;
+  * Ferramentas de automação;
 
 Essas competências são fundamentais para construir soluções escaláveis e eficientes que aproveitam ao máximo os recursos da computação em nuvem.
 
