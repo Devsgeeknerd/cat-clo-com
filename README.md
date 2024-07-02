@@ -70,6 +70,7 @@ Essas competências são fundamentais para construir soluções escaláveis e ef
 >   * Envolva-se em fóruns e grupos online para trocar experiências e resolver dúvidas.
 >
 > * Atualização Constante:
+>   * Mantenha-se atualizado com as novidades e evoluções nas tecnologias de nuvem.
 
 <!-- Informações -->
 ## &#8505; Informações
