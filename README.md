@@ -19,6 +19,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Visão geral dos serviços do Google Cloud Platform;
   * Comparação entre AWS, Azure e GCP.
 
+* **Armazenamento e Bancos de Dados em Nuvem:**
+
 Essas competências são fundamentais para construir soluções escaláveis e eficientes que aproveitam ao máximo os recursos da computação em nuvem.
 
 <!-- Informações -->
