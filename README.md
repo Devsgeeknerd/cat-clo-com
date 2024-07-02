@@ -41,6 +41,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Fundamentos de DevOps;
   * Ferramentas de automação;
   * Pipelines de CI/CD na nuvem;
+  * Monitoramento e logging.
 
 Essas competências são fundamentais para construir soluções escaláveis e eficientes que aproveitam ao máximo os recursos da computação em nuvem.
 
