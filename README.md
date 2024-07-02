@@ -50,6 +50,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Visualização de dados.
 
 * **Inteligência Artificial e Machine Learning na Nuvem:** Serviços de IA e ML oferecidos pelos provedores de nuvem.
+  * Plataformas de machine learning;
 
 Essas competências são fundamentais para construir soluções escaláveis e eficientes que aproveitam ao máximo os recursos da computação em nuvem.
 
