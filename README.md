@@ -62,6 +62,8 @@ Essas competências são fundamentais para construir soluções escaláveis e ef
 >
 > * Prática contínua:
 >   * Utilize serviços de nuvem para criar e gerenciar seus próprios projetos.
+>
+> * Certificações:
 
 <!-- Informações -->
 ## &#8505; Informações
